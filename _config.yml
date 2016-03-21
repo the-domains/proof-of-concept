@@ -2,6 +2,7 @@ name: Proof of Concept
 favicon: null
 layout_spectrum: 0.7981749200262129
 typography_spectrum: 0.30937
+title: SimpleDiag Tool
 cta:
   domain: null
   bucket: null
